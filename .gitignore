@@ -1,0 +1,7 @@
+__pycache__
+.DS_store
+.venv
+poetry.lock
+pyproject.toml
+*.ipynb
+mlops
